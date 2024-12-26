@@ -272,7 +272,7 @@ def upload_to_ftp(ftp_host, ftp_username, ftp_password, filename, content, id):
 if __name__ == "__main__":
     try:  
       # Example query
-      query = "SELECT * FROM app_data WHERE status = 'BUILDING_01' ORDER BY id DESC LIMIT 1"
+      query = "SELECT * FROM app_data WHERE status = 'BUILDING_02' ORDER BY id DESC LIMIT 1"
   
       # Execute the query
       execute_query(host, username, password, database, query)
