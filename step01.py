@@ -97,10 +97,10 @@ def execute_query(db_host, db_username, db_password, db_database, query):
                 replace_text_in_file(fp, ft, nt)
             
             # Update the status column to "Updated"
-            update_query = "UPDATE app_data SET status = 'BUILDING_01', status_updated_at = NOW() WHERE id = %s"
+            update_query = "UPDATE app_data SET status = 'BUILDING_02', status_updated_at = NOW() WHERE id = %s"
             cursor.execute(update_query, (id,))
             connection.commit()
-            print("Status column updated to 'BUILDING_01'")
+            print("Status column updated to 'BUILDING_02'")
         else:
             raise RuntimeError("There is no app for build.")
 
@@ -170,7 +170,7 @@ if __name__ == "__main__":
       database = os.environ['DB_NAME']
   
       # Example query
-      query = "SELECT * FROM app_data WHERE status = 'PENDING' ORDER BY id DESC LIMIT 1 OFFSET 1"
+      query = "SELECT * FROM app_data WHERE status = 'PENDING' ORDER BY id DESC LIMIT 1 OFFSET 2"
   
       # Execute the query
       execute_query(host, username, password, database, query)
