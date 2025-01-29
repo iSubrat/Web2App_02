@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeducanovacruz13105"
+        applicationId "com.appcollection.xattendance_tracker13104"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
