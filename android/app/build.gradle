@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadventure_of_mario12746"
+        applicationId "com.appcollection.xteste_12555"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
