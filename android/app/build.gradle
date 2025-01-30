@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x1_obzedsed12510"
+        applicationId "com.appcollection.xzahra_painter12452"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
