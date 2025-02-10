@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbus13784"
+        applicationId "com.appcollection.xbread_quiz_13805"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
