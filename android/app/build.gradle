@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xodrama13878"
+        applicationId "com.appcollection.xtranslateor13919"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
