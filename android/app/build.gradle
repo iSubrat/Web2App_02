@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmon_hlel_14285"
+        applicationId "com.appcollection.xmy_life_14283"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
