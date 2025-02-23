@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xondemand_14518"
+        applicationId "com.appcollection.xkrb_fashion_14564"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
