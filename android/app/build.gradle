@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvansh_and_yash_pay_15058"
+        applicationId "com.appcollection.xshahziab_jamali15078"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
