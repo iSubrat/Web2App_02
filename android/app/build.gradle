@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhulkenstein15256"
+        applicationId "com.appcollection.xramzan_portal15306"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
