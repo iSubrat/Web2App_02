@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xswiftkonet15540"
+        applicationId "com.appcollection.xpython_learning_tool_15545"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
