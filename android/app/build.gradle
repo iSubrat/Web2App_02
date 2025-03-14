@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgoogle15530"
+        applicationId "com.appcollection.xswiftkonet15540"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
