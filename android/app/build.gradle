@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xplanet_pilkey15562"
+        applicationId "com.appcollection.xonesoul_15571"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
