@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpermussion16104"
+        applicationId "com.appcollection.xbubble_shooter_2_o16106"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
