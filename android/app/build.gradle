@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstreet_chicken_16677"
+        applicationId "com.appcollection.xoutlier16686"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
