@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfintech_festival_tanzania_202516979"
+        applicationId "com.appcollection.xblog_do_bg16993"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
