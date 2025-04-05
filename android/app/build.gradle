@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvespamall17083"
+        applicationId "com.appcollection.xbildad_mbaechi17106"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
