@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhttps_playtv_com_br_site_17123"
+        applicationId "com.appcollection.xjessica_t_socia17131"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
