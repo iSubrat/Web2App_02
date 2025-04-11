@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrayconnect17572"
+        applicationId "com.appcollection.xhealth_innovation17579"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
