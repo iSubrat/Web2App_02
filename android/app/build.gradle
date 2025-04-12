@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xepectra_17608"
+        applicationId "com.appcollection.xtvjangadeiro17619"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
