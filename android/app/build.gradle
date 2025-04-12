@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtvjangadeiro17619"
+        applicationId "com.appcollection.xinfox17636"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
