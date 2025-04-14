@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstudy_jk17794"
+        applicationId "com.appcollection.xanka_app17805"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
