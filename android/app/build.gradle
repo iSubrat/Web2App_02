@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpriv_vps_17865"
+        applicationId "com.appcollection.xcapstone_registration_17875"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
