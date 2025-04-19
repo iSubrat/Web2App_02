@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtic_tac_toe18135"
+        applicationId "com.appcollection.xe_noticias_com_18148"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
