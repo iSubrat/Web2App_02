@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjust_dance18243"
+        applicationId "com.appcollection.xmultimovie18285"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
