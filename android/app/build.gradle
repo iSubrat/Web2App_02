@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlynk_id18685"
+        applicationId "com.appcollection.xwa_tool18697"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
