@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvalida_o18983"
+        applicationId "com.appcollection.ximage2pdf_19002"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
