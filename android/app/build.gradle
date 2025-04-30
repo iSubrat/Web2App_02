@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xteacher_attendance_calculator_18976"
+        applicationId "com.appcollection.xvalida_o18983"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
