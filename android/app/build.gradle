@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjupiter_pk19481"
+        applicationId "com.appcollection.xsnacklink19502"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
