@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xascario19619"
+        applicationId "com.appcollection.xsilveira_e_silveira19622"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
