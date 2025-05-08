@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlearning_build_19724"
+        applicationId "com.appcollection.xai_studio19727"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
