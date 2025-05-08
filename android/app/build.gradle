@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbca_attendance19715"
+        applicationId "com.appcollection.xkritiko_official19718"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
