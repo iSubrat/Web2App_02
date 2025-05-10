@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xscorpio_booking19832"
+        applicationId "com.appcollection.xmylero_19857"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
