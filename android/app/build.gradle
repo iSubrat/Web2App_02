@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkrypto19898"
+        applicationId "com.appcollection.xbest_study_plan19901"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
