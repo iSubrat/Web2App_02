@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtechno_teacher_19986"
+        applicationId "com.appcollection.xfutboll20007"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
