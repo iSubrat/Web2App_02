@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xaquarecicla20541"
+        applicationId "com.appcollection.xexpert_vip_tips20545"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
