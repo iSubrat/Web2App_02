@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsprunki20620"
+        applicationId "com.appcollection.xeleven_labs20630"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
