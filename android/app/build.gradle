@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcrea_tu_propio_xiaomi20709"
+        applicationId "com.appcollection.xmala_count_20718"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
