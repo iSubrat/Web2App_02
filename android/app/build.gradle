@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhttps_youtu_be_xcktk_cuzvk_feature_shared21034"
+        applicationId "com.appcollection.xyoutuber_21037"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
