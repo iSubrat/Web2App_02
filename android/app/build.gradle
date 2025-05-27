@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xquest_for_knowledge21239"
+        applicationId "com.appcollection.xdhwanicheck_21243"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
