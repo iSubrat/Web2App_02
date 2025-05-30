@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xai_audiobook_battles21456"
+        applicationId "com.appcollection.xcalculadora_de_edad21468"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
