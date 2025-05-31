@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtejasv21600"
+        applicationId "com.appcollection.xrehash_crazy_game21605"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
