@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbayu21673"
+        applicationId "com.appcollection.xchatbot_mb21678"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
