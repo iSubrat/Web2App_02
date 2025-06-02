@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x13221775"
+        applicationId "com.appcollection.xleosdinelis_interexplorer21801"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
