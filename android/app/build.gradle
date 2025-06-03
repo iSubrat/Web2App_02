@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcraz_puzzle21843"
+        applicationId "com.appcollection.xbike_invoice21846"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
