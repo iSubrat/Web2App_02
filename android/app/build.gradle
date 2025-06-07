@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xai_gpt_2_22215"
+        applicationId "com.appcollection.xsouth_indian_hub_22218"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
