@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbedava_diziler_izle_22401"
+        applicationId "com.appcollection.xendless_tiger_runner_22404"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
