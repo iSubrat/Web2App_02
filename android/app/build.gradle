@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xprivi22686"
+        applicationId "com.appcollection.xkuponiextra_22689"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
