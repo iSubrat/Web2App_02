@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkitty_clicker_v1_22690"
+        applicationId "com.appcollection.xtext_to_image_22693"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
