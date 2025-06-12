@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xroyal_profit22721"
+        applicationId "com.appcollection.xkali_acadmey22731"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
