@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmoney_calculator_22838"
+        applicationId "com.appcollection.xerowid_chemistry_22849"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
