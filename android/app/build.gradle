@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcashier_dobu_hairstudio22832"
+        applicationId "com.appcollection.xmoney_calculator_22838"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
