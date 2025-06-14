@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xon_topic_22933"
+        applicationId "com.appcollection.xmy_scrap_code22952"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
