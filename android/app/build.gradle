@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbiron_bhai_store22907"
+        applicationId "com.appcollection.xusdminerapp22913"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
