@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xandi_search23026"
+        applicationId "com.appcollection.x_23031"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
