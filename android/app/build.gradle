@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xheadrtricker_23136"
+        applicationId "com.appcollection.xaditya_sales_rep23170"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
