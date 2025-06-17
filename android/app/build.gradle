@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpgl23209"
+        applicationId "com.appcollection.xdailymotion23243"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
