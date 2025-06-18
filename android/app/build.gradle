@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjob_next23334"
+        applicationId "com.appcollection.xyumiroll23341"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
