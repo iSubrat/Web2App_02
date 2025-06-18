@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xblack_friday_extrapopusti23353"
+        applicationId "com.appcollection.xapk_nokos_vip_by_arz_hosting_23360"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
