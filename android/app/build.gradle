@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xconfig_weird_23966"
+        applicationId "com.appcollection.xself_improve23968"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
