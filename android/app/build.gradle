@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlembur_fmi24048"
+        applicationId "com.appcollection.xfast_punjab_tv24056"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
