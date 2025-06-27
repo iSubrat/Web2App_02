@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgood_shepherd_school_lms24256"
+        applicationId "com.appcollection.xcrytek24279"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
