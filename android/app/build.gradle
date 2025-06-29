@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xiv_calc_for_pok_mon_sleep24382"
+        applicationId "com.appcollection.xadmin_promo24388"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
