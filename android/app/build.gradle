@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpantau_anak24462"
+        applicationId "com.appcollection.xsachsenschiene_verzeichnis_bahnh_fe_24465"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
