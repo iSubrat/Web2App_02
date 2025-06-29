@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xca_saathi24483"
+        applicationId "com.appcollection.xbest_buy_tv_fitment_tool24487"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
