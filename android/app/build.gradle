@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvedticto24620"
+        applicationId "com.appcollection.xhypno24624"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
