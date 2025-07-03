@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xphotoreport24802"
+        applicationId "com.appcollection.xl_agglo_en_bus_gap24805"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
