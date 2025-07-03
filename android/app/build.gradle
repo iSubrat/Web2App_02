@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xjasteb_yugx_v2_24783"
+        applicationId "com.appcollection.xtom_ben_news24786"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
