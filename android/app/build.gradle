@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xakash_25157"
+        applicationId "com.appcollection.xmagic_ladders_25162"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
